@@ -10,8 +10,8 @@ employees = {
         "password": "1234"
     },
     1236: {
-        "name": "Srinu",
-        "email": "Srinu123@gmail.com",
+        "name": "Mattaiah",
+        "email": "mattaiah@gmail.com",
         "department": "Java",
         "designation": "Software Engineer",
         "salary": 45000,
@@ -56,6 +56,7 @@ def login(emp_id, password):
 
 
 # VIEW PROFILE
+
 
 def view_profile(emp_id):
 
@@ -186,8 +187,11 @@ if __name__ == "__main__":
                     update_department(emp_id, department)
 
                 elif option == 3:
+
                     designation = input("Enter New Designation : ")
+
                     update_designation(emp_id, designation)
+
                 elif option == 4:
 
                     salary = int(input("Enter New Salary : ")

@@ -1,0 +1,20 @@
+[
+    {
+        "member_id": "M001",
+        "name": "rakesh",
+        "email": "rakesh@gmail.com",
+        "phone": "8309805265"
+    },
+    {
+        "member_id": "m002",
+        "name": "sindhu",
+        "email": "sindhu@gmail.com",
+        "phone": "9392588278"
+    },
+    {
+        "member_id": "Moo3",
+        "name": "sindhu",
+        "email": "sindhu@gmail.com",
+        "phone": "8937097407"
+    }
+]
